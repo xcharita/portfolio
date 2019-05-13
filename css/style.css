@@ -1,0 +1,41 @@
+body
+{
+    margin:0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav
+{
+    width: 100%;
+    background: #3cb4c4;
+}
+ul
+{
+    width: 80%;
+    margin: 0 auto;
+    padding: auto;
+}
+ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
+ul li:hover
+{
+    background: #3aa2af;
+}
+ul li a
+{
+    color:navy;
+    text-decoration: none;
+    padding: auto;
+    margin: 0 auto;
+}
+p
+{
+    font-family: monospace;
+}
